@@ -1,0 +1,23 @@
+Features
+	Alarm/notifications for upcoming cases
+	Cases info from all courts(27HC + 1SC)
+
+UI/UX
+	Landing page 
+	Dashboard
+
+Back-end
+	Dummy API building
+		Case details - Location, jurisdiction, involved org, dates, case status(running/closed), 
+
+
+Others
+	Documentation of Law
+	Summarization of judgements
+	
+
+
+
+Notes
+	UGC - Primary Target
+	Common People - Secondary Target
