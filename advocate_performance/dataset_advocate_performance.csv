@@ -1,0 +1,1002 @@
+,name,id,speciality,experience (yrs),fees,age,avg resolve time (days),active cases
+0,misri,131231100,Arbitration Petition,20.0,205000,45,85,1.0
+1,tina,131231101,Petition for Special Leave to Appeal,38.0,385000,63,597,5.0
+2,dharmendera,131231102,Criminal Appeal Petition,34.0,345000,59,613,7.0
+3,sukh,131231103,Election Petition,34.0,345000,59,186,1.0
+4,mairy,131231104,Writ Petition,4.0,45000,29,74,3.0
+5,sube,131231105,Contempt Petition (Civil),16.0,165000,41,383,2.0
+6,mangala,131231106,Transferred Case Petition,28.0,285000,53,318,2.0
+7,soona,131231107,Civil (Appeal) Petition,14.0,145000,39,189,9.0
+8,bhemji,131231108,Contempt Petition (Civil),26.0,265000,51,554,3.0
+9,masheen,131231109,Election Petition,32.0,325000,57,183,4.0
+10,chandkor,131231110,Election Petition,9.0,95000,34,539,1.0
+11,shakti,131231111,Election Petition,5.0,55000,30,160,4.0
+12,sanju,131231112,Contempt Petition (Civil),21.0,215000,46,590,6.0
+13,jaidul,131231113,Writ Petition,30.0,305000,55,311,2.0
+14,aishe,131231114,Contempt Petition (Civil),30.0,305000,55,323,3.0
+15,shoukat,131231115,Transferred Case Petition,15.0,155000,40,134,8.0
+16,janid,131231116,Petition for Special Leave to Appeal,38.0,385000,63,459,4.0
+17,preeti,131231117,Contempt Petition (Civil),25.0,255000,50,179,6.0
+18,akaash,131231118,Arbitration Petition,34.0,345000,59,87,4.0
+19,radhamohan,131231119,Transferred Case Petition,11.0,115000,36,773,9.0
+20,rajvir,131231120,Election Petition,16.0,165000,41,273,3.0
+21,nasreen,131231121,Arbitration Petition,39.0,395000,64,419,7.0
+22,atish,131231122,Original Suit,39.0,395000,64,130,3.0
+23,shivlal,131231123,Original Suit,32.0,325000,57,755,6.0
+24,shallu,131231124,Writ Petition,8.0,85000,33,540,7.0
+25,aliya,131231125,Arbitration Petition,12.0,125000,37,585,7.0
+26,adhish,131231126,Contempt Petition (Criminal),10.0,105000,35,412,3.0
+27,serul,131231127,Contempt Petition (Criminal),24.0,245000,49,55,4.0
+28,indernath,131231128,Contempt Petition (Civil),20.0,205000,45,203,8.0
+29,zahid,131231129,Petition for Special Leave to Appeal,27.0,275000,52,136,4.0
+30,kavit,131231130,Criminal Appeal Petition,14.0,145000,39,196,6.0
+31,afsana,131231131,Transferred Case Petition,29.0,295000,54,635,1.0
+32,birmati,131231132,Writ Petition,15.0,155000,40,160,4.0
+33,ratiman,131231133,Arbitration Petition,34.0,345000,59,499,6.0
+34,vandita,131231134,Civil (Appeal) Petition,35.0,355000,60,522,5.0
+35,beeru,131231135,Writ Petition,11.0,115000,36,573,2.0
+36,durgash,131231136,Election Petition,23.0,235000,48,770,2.0
+37,kayamuddin,131231137,Criminal Appeal Petition,10.0,105000,35,681,6.0
+38,rajit,131231138,Civil (Appeal) Petition,27.0,275000,52,253,7.0
+39,hardam,131231139,Contempt Petition (Criminal),14.0,145000,39,704,5.0
+40,vasa,131231140,Arbitration Petition,32.0,325000,57,580,1.0
+41,iqubal,131231141,Contempt Petition (Criminal),33.0,335000,58,597,4.0
+42,rihal,131231142,Civil (Appeal) Petition,35.0,355000,60,566,4.0
+43,maksood,131231143,Civil (Appeal) Petition,18.0,185000,43,562,7.0
+44,shelender,131231144,Contempt Petition (Criminal),19.0,195000,44,681,8.0
+45,saidas,131231145,Election Petition,17.0,175000,42,493,3.0
+46,umashankar,131231146,Criminal Appeal Petition,34.0,345000,59,227,6.0
+47,dhukhu,131231147,Civil (Appeal) Petition,33.0,335000,58,538,5.0
+48,rubo,131231148,Contempt Petition (Criminal),14.0,145000,39,269,9.0
+49,amita,131231149,Civil (Appeal) Petition,38.0,385000,63,598,6.0
+50,druga,131231150,Original Suit,2.0,25000,27,43,5.0
+51,pramila,131231151,Transferred Case Petition,30.0,305000,55,227,4.0
+52,daljeet,131231152,Contempt Petition (Civil),19.0,195000,44,83,3.0
+53,shana,131231153,Contempt Petition (Civil),1.0,15000,26,279,6.0
+54,mansavi,131231154,Contempt Petition (Civil),8.0,85000,33,785,5.0
+55,chhitar,131231155,Criminal Appeal Petition,29.0,295000,54,481,2.0
+56,vikrant,131231156,Contempt Petition (Civil),0.0,5000,25,83,7.0
+57,satyam,131231157,Petition for Special Leave to Appeal,12.0,125000,37,465,9.0
+58,atu,131231158,Contempt Petition (Criminal),20.0,205000,45,477,5.0
+59,chotum,131231159,Petition for Special Leave to Appeal,7.0,75000,32,359,9.0
+60,asrani,131231160,Contempt Petition (Civil),15.0,155000,40,255,1.0
+61,kanta,131231161,Civil (Appeal) Petition,25.0,255000,50,719,3.0
+62,prakul,131231162,Original Suit,13.0,135000,38,590,8.0
+63,sapana,131231163,Civil (Appeal) Petition,20.0,205000,45,551,8.0
+64,aashiya,131231164,Criminal Appeal Petition,13.0,135000,38,168,9.0
+65,sunhara,131231165,Arbitration Petition,23.0,235000,48,78,3.0
+66,neela,131231166,Arbitration Petition,27.0,275000,52,236,4.0
+67,kalashi,131231167,Original Suit,4.0,45000,29,596,3.0
+68,nazia,131231168,Civil (Appeal) Petition,17.0,175000,42,426,7.0
+69,mustafa,131231169,Original Suit,32.0,325000,57,731,4.0
+70,mangeram,131231170,Contempt Petition (Criminal),21.0,215000,46,162,2.0
+71,sushmendra,131231171,Contempt Petition (Criminal),20.0,205000,45,30,7.0
+72,omprakash,131231172,Election Petition,4.0,45000,29,378,7.0
+73,smariti,131231173,Contempt Petition (Criminal),23.0,235000,48,429,6.0
+74,lavpreet,131231174,Criminal Appeal Petition,1.0,15000,26,377,5.0
+75,jatin,131231175,Petition for Special Leave to Appeal,3.0,35000,28,253,3.0
+76,ziyabul,131231176,Contempt Petition (Criminal),25.0,255000,50,227,6.0
+77,phooli,131231177,Arbitration Petition,9.0,95000,34,134,1.0
+78,sarvjeet,131231178,Criminal Appeal Petition,32.0,325000,57,740,8.0
+79,sobha,131231179,Election Petition,2.0,25000,27,178,1.0
+80,samiya,131231180,Writ Petition,29.0,295000,54,649,6.0
+81,razi,131231181,Petition for Special Leave to Appeal,0.0,5000,25,466,4.0
+82,sapan,131231182,Contempt Petition (Civil),32.0,325000,57,623,9.0
+83,indrvati,131231183,Contempt Petition (Criminal),7.0,75000,32,582,4.0
+84,sham,131231184,Transferred Case Petition,2.0,25000,27,204,7.0
+85,chhagan,131231185,Civil (Appeal) Petition,14.0,145000,39,108,9.0
+86,balram,131231186,Civil (Appeal) Petition,29.0,295000,54,493,7.0
+87,anash,131231187,Writ Petition,33.0,335000,58,213,6.0
+88,vansu,131231188,Petition for Special Leave to Appeal,39.0,395000,64,359,9.0
+89,indresh,131231189,Transferred Case Petition,5.0,55000,30,464,8.0
+90,riyazuddin,131231190,Contempt Petition (Criminal),29.0,295000,54,63,4.0
+91,nikhad,131231191,Civil (Appeal) Petition,22.0,225000,47,765,9.0
+92,subhod,131231192,Petition for Special Leave to Appeal,20.0,205000,45,335,8.0
+93,shankri,131231193,Criminal Appeal Petition,2.0,25000,27,705,2.0
+94,gawali,131231194,Criminal Appeal Petition,4.0,45000,29,590,7.0
+95,surya,131231195,Original Suit,21.0,215000,46,508,9.0
+96,mumtaz,131231196,Original Suit,26.0,265000,51,417,5.0
+97,tamana,131231197,Petition for Special Leave to Appeal,30.0,305000,55,50,3.0
+98,savina,131231198,Criminal Appeal Petition,6.0,65000,31,240,5.0
+99,kamna,131231199,Petition for Special Leave to Appeal,5.0,55000,30,290,2.0
+100,faizal,131231200,Writ Petition,38.0,385000,63,602,1.0
+101,vikaram,131231201,Petition for Special Leave to Appeal,29.0,295000,54,559,1.0
+102,rajl,131231202,Original Suit,31.0,315000,56,111,3.0
+103,premlata,131231203,Criminal Appeal Petition,34.0,345000,59,299,1.0
+104,harinarayan,131231204,Petition for Special Leave to Appeal,33.0,335000,58,631,2.0
+105,ghisaram,131231205,Transferred Case Petition,2.0,25000,27,43,1.0
+106,saana,131231206,Writ Petition,3.0,35000,28,474,3.0
+107,nazrana,131231207,Original Suit,27.0,275000,52,144,5.0
+108,aayana,131231208,Petition for Special Leave to Appeal,17.0,175000,42,401,5.0
+109,sehboob,131231209,Contempt Petition (Criminal),34.0,345000,59,685,4.0
+110,ajju,131231210,Contempt Petition (Criminal),0.0,5000,25,280,7.0
+111,mahindra,131231211,Arbitration Petition,24.0,245000,49,496,8.0
+112,jubeda,131231212,Transferred Case Petition,22.0,225000,47,776,8.0
+113,rashma,131231213,Election Petition,33.0,335000,58,49,5.0
+114,sharwan,131231214,Petition for Special Leave to Appeal,17.0,175000,42,274,5.0
+115,neelu,131231215,Civil (Appeal) Petition,2.0,25000,27,538,9.0
+116,chanderkala,131231216,Arbitration Petition,32.0,325000,57,178,7.0
+117,najrin,131231217,Civil (Appeal) Petition,15.0,155000,40,698,7.0
+118,gautam,131231218,Arbitration Petition,31.0,315000,56,207,6.0
+119,upender,131231219,Civil (Appeal) Petition,27.0,275000,52,707,2.0
+120,lakshay,131231220,Civil (Appeal) Petition,24.0,245000,49,688,7.0
+121,bansi,131231221,Original Suit,23.0,235000,48,246,9.0
+122,daljit,131231222,Writ Petition,6.0,65000,31,520,1.0
+123,siraj,131231223,Contempt Petition (Criminal),39.0,395000,64,470,6.0
+124,hare,131231224,Election Petition,9.0,95000,34,495,4.0
+125,viren,131231225,Original Suit,39.0,395000,64,535,3.0
+126,jasim,131231226,Criminal Appeal Petition,23.0,235000,48,471,5.0
+127,munkad,131231227,Criminal Appeal Petition,3.0,35000,28,621,1.0
+128,jgdish,131231228,Contempt Petition (Civil),30.0,305000,55,474,6.0
+129,rajveer,131231229,Petition for Special Leave to Appeal,36.0,365000,61,263,6.0
+130,bhudhashen,131231230,Contempt Petition (Civil),5.0,55000,30,640,6.0
+131,anuu,131231231,Election Petition,5.0,55000,30,385,5.0
+132,yameen,131231232,Criminal Appeal Petition,12.0,125000,37,305,9.0
+133,shahir,131231233,Original Suit,20.0,205000,45,682,1.0
+134,vedanand,131231234,Civil (Appeal) Petition,6.0,65000,31,226,9.0
+135,jankidas,131231235,Transferred Case Petition,21.0,215000,46,586,4.0
+136,rajni,131231236,Arbitration Petition,36.0,365000,61,169,9.0
+137,kusum,131231237,Petition for Special Leave to Appeal,14.0,145000,39,615,2.0
+138,amana,131231238,Original Suit,18.0,185000,43,398,3.0
+139,aansu,131231239,Election Petition,0.0,5000,25,523,6.0
+140,satrohan,131231240,Contempt Petition (Civil),27.0,275000,52,470,5.0
+141,chunni,131231241,Writ Petition,38.0,385000,63,99,8.0
+142,ramjani,131231242,Arbitration Petition,29.0,295000,54,534,4.0
+143,kanhiya,131231243,Contempt Petition (Civil),36.0,365000,61,260,4.0
+144,aamin,131231244,Election Petition,35.0,355000,60,316,7.0
+145,multan,131231245,Civil (Appeal) Petition,28.0,285000,53,319,9.0
+146,tejpal,131231246,Contempt Petition (Criminal),39.0,395000,64,575,6.0
+147,jya,131231247,Contempt Petition (Criminal),30.0,305000,55,624,7.0
+148,jarina,131231248,Petition for Special Leave to Appeal,39.0,395000,64,290,8.0
+149,shaving,131231249,Criminal Appeal Petition,20.0,205000,45,770,3.0
+150,ashif,131231250,Election Petition,14.0,145000,39,89,4.0
+151,chhanya,131231251,Contempt Petition (Civil),5.0,55000,30,456,5.0
+152,alisha,131231252,Contempt Petition (Civil),19.0,195000,44,471,5.0
+153,shalender,131231253,Writ Petition,39.0,395000,64,764,2.0
+154,sobit,131231254,Election Petition,4.0,45000,29,420,2.0
+155,rsjesh,131231255,Petition for Special Leave to Appeal,28.0,285000,53,306,2.0
+156,sarbjeet,131231256,Original Suit,29.0,295000,54,235,1.0
+157,marjana,131231257,Contempt Petition (Civil),34.0,345000,59,243,1.0
+158,sarip,131231258,Petition for Special Leave to Appeal,29.0,295000,54,352,5.0
+159,astha,131231259,Arbitration Petition,17.0,175000,42,226,8.0
+160,baljeet,131231260,Election Petition,12.0,125000,37,76,9.0
+161,rajenderi,131231261,Original Suit,28.0,285000,53,282,3.0
+162,anshuman,131231262,Contempt Petition (Civil),14.0,145000,39,759,3.0
+163,beeti,131231263,Arbitration Petition,17.0,175000,42,309,8.0
+164,shivbhagvan,131231264,Arbitration Petition,27.0,275000,52,164,4.0
+165,risabh,131231265,Civil (Appeal) Petition,16.0,165000,41,719,9.0
+166,marium,131231266,Election Petition,13.0,135000,38,544,6.0
+167,neeti,131231267,Original Suit,14.0,145000,39,797,6.0
+168,jamadar,131231268,Civil (Appeal) Petition,12.0,125000,37,737,7.0
+169,jagjeet,131231269,Contempt Petition (Criminal),15.0,155000,40,654,6.0
+170,amart,131231270,Arbitration Petition,21.0,215000,46,69,2.0
+171,shahzad,131231271,Criminal Appeal Petition,0.0,5000,25,607,4.0
+172,fulmiya,131231272,Petition for Special Leave to Appeal,0.0,5000,25,556,8.0
+173,nizam,131231273,Election Petition,23.0,235000,48,488,8.0
+174,raj,131231274,Writ Petition,11.0,115000,36,629,1.0
+175,abha,131231275,Civil (Appeal) Petition,3.0,35000,28,333,2.0
+176,gita,131231276,Contempt Petition (Criminal),2.0,25000,27,790,4.0
+177,leelu,131231277,Election Petition,0.0,5000,25,318,7.0
+178,rajwati,131231278,Writ Petition,26.0,265000,51,690,4.0
+179,sukenta,131231279,Petition for Special Leave to Appeal,28.0,285000,53,546,7.0
+180,dhirender,131231280,Contempt Petition (Civil),3.0,35000,28,595,2.0
+181,madhu,131231281,Petition for Special Leave to Appeal,22.0,225000,47,525,7.0
+182,phakir,131231282,Contempt Petition (Civil),8.0,85000,33,193,5.0
+183,viccky,131231283,Original Suit,30.0,305000,55,644,8.0
+184,reshmi,131231284,Writ Petition,34.0,345000,59,765,4.0
+185,kastoori,131231285,Contempt Petition (Civil),27.0,275000,52,753,8.0
+186,premnarayan,131231286,Writ Petition,4.0,45000,29,47,6.0
+187,gaura,131231287,Contempt Petition (Civil),35.0,355000,60,335,7.0
+188,samadh,131231288,Petition for Special Leave to Appeal,18.0,185000,43,771,6.0
+189,axat,131231289,Arbitration Petition,6.0,65000,31,185,6.0
+190,pavan,131231290,Criminal Appeal Petition,21.0,215000,46,400,8.0
+191,rena,131231291,Transferred Case Petition,14.0,145000,39,712,6.0
+192,kela,131231292,Writ Petition,26.0,265000,51,497,8.0
+193,majunew,131231293,Contempt Petition (Civil),33.0,335000,58,513,9.0
+194,sumita,131231294,Election Petition,28.0,285000,53,660,3.0
+195,mahendra,131231295,Election Petition,25.0,255000,50,684,9.0
+196,sansaar,131231296,Civil (Appeal) Petition,17.0,175000,42,271,9.0
+197,toni,131231297,Contempt Petition (Civil),18.0,185000,43,603,4.0
+198,imamudeen,131231298,Transferred Case Petition,18.0,185000,43,740,6.0
+199,jafruddin,131231299,Election Petition,29.0,295000,54,711,7.0
+200,al0k,131231300,Arbitration Petition,10.0,105000,35,655,1.0
+201,basanta,131231301,Petition for Special Leave to Appeal,13.0,135000,38,441,7.0
+202,gulfam,131231302,Writ Petition,35.0,355000,60,368,3.0
+203,nawed,131231303,Transferred Case Petition,19.0,195000,44,281,6.0
+204,huseni,131231304,Arbitration Petition,29.0,295000,54,439,2.0
+205,subodh,131231305,Arbitration Petition,2.0,25000,27,430,7.0
+206,alam,131231306,Transferred Case Petition,27.0,275000,52,55,6.0
+207,saeshta,131231307,Contempt Petition (Criminal),5.0,55000,30,295,7.0
+208,baggusingh,131231308,Writ Petition,27.0,275000,52,338,3.0
+209,sabrin,131231309,Original Suit,14.0,145000,39,625,7.0
+210,jagjiwan,131231310,Transferred Case Petition,5.0,55000,30,379,8.0
+211,fatma,131231311,Contempt Petition (Criminal),23.0,235000,48,740,1.0
+212,rizwan,131231312,Election Petition,21.0,215000,46,540,5.0
+213,musarrat,131231313,Election Petition,33.0,335000,58,671,8.0
+214,ramvilash,131231314,Criminal Appeal Petition,17.0,175000,42,666,2.0
+215,nitasha,131231315,Contempt Petition (Criminal),4.0,45000,29,301,3.0
+216,bachcha,131231316,Civil (Appeal) Petition,37.0,375000,62,516,5.0
+217,wajuddin,131231317,Civil (Appeal) Petition,24.0,245000,49,609,4.0
+218,sarju,131231318,Arbitration Petition,6.0,65000,31,798,6.0
+219,sazi,131231319,Election Petition,23.0,235000,48,635,3.0
+220,hafsa,131231320,Original Suit,35.0,355000,60,136,1.0
+221,kamini,131231321,Arbitration Petition,15.0,155000,40,777,6.0
+222,joydeep,131231322,Civil (Appeal) Petition,39.0,395000,64,47,3.0
+223,tek,131231323,Arbitration Petition,26.0,265000,51,108,5.0
+224,rupak,131231324,Writ Petition,20.0,205000,45,423,6.0
+225,jayada,131231325,Petition for Special Leave to Appeal,36.0,365000,61,770,3.0
+226,maheshar,131231326,Contempt Petition (Criminal),15.0,155000,40,543,5.0
+227,ikramuddin,131231327,Petition for Special Leave to Appeal,18.0,185000,43,608,9.0
+228,basanti,131231328,Contempt Petition (Civil),33.0,335000,58,70,1.0
+229,juhi,131231329,Writ Petition,31.0,315000,56,497,7.0
+230,surjit,131231330,Contempt Petition (Criminal),35.0,355000,60,243,5.0
+231,baban,131231331,Writ Petition,17.0,175000,42,666,6.0
+232,yogeshwar,131231332,Writ Petition,38.0,385000,63,783,5.0
+233,lakshya,131231333,Election Petition,37.0,375000,62,694,6.0
+234,bhart,131231334,Civil (Appeal) Petition,34.0,345000,59,251,5.0
+235,versa,131231335,Original Suit,31.0,315000,56,534,4.0
+236,maujim,131231336,Transferred Case Petition,24.0,245000,49,85,6.0
+237,dev,131231337,Criminal Appeal Petition,2.0,25000,27,648,6.0
+238,shelly,131231338,Contempt Petition (Criminal),8.0,85000,33,215,2.0
+239,shrawan,131231339,Petition for Special Leave to Appeal,31.0,315000,56,263,3.0
+240,jaismeen,131231340,Civil (Appeal) Petition,1.0,15000,26,684,1.0
+241,norti,131231341,Petition for Special Leave to Appeal,37.0,375000,62,328,7.0
+242,piyush,131231342,Contempt Petition (Civil),39.0,395000,64,784,5.0
+243,amzad,131231343,Civil (Appeal) Petition,11.0,115000,36,736,7.0
+244,dilshana,131231344,Petition for Special Leave to Appeal,9.0,95000,34,555,1.0
+245,joy,131231345,Civil (Appeal) Petition,10.0,105000,35,550,5.0
+246,sarain,131231346,Writ Petition,30.0,305000,55,780,8.0
+247,yatin,131231347,Contempt Petition (Civil),34.0,345000,59,54,7.0
+248,mamoita,131231348,Petition for Special Leave to Appeal,0.0,5000,25,765,6.0
+249,rvindra,131231349,Arbitration Petition,4.0,45000,29,706,6.0
+250,shanty,131231350,Criminal Appeal Petition,16.0,165000,41,485,9.0
+251,geernish,131231351,Original Suit,11.0,115000,36,117,8.0
+252,nasrin,131231352,Civil (Appeal) Petition,10.0,105000,35,526,4.0
+253,dukhi,131231353,Contempt Petition (Criminal),31.0,315000,56,413,4.0
+254,binja,131231354,Arbitration Petition,2.0,25000,27,133,8.0
+255,muskaan,131231355,Contempt Petition (Civil),21.0,215000,46,166,8.0
+256,noora,131231356,Civil (Appeal) Petition,12.0,125000,37,754,8.0
+257,naryan,131231357,Writ Petition,29.0,295000,54,514,3.0
+258,bajrangi,131231358,Contempt Petition (Civil),13.0,135000,38,796,4.0
+259,rajrani,131231359,Writ Petition,0.0,5000,25,460,3.0
+260,menka,131231360,Contempt Petition (Civil),22.0,225000,47,306,7.0
+261,shamshudin,131231361,Arbitration Petition,22.0,225000,47,310,7.0
+262,mohmad,131231362,Contempt Petition (Criminal),30.0,305000,55,115,6.0
+263,akhileshwer,131231363,Petition for Special Leave to Appeal,32.0,325000,57,770,3.0
+264,divaie,131231364,Transferred Case Petition,16.0,165000,41,119,2.0
+265,mariam,131231365,Contempt Petition (Criminal),19.0,195000,44,435,9.0
+266,anjara,131231366,Writ Petition,14.0,145000,39,174,7.0
+267,jenny,131231367,Transferred Case Petition,22.0,225000,47,462,3.0
+268,anirudh,131231368,Contempt Petition (Criminal),30.0,305000,55,473,7.0
+269,vashisast,131231369,Civil (Appeal) Petition,7.0,75000,32,580,6.0
+270,raghbir,131231370,Contempt Petition (Criminal),6.0,65000,31,677,2.0
+271,lavkush,131231371,Petition for Special Leave to Appeal,31.0,315000,56,361,8.0
+272,ramkiashan,131231372,Civil (Appeal) Petition,35.0,355000,60,624,4.0
+273,kushmita,131231373,Original Suit,21.0,215000,46,554,2.0
+274,sukhvir,131231374,Original Suit,33.0,335000,58,405,9.0
+275,dharamveer,131231375,Contempt Petition (Criminal),24.0,245000,49,255,7.0
+276,prabhat,131231376,Original Suit,14.0,145000,39,240,2.0
+277,paras,131231377,Election Petition,4.0,45000,29,43,2.0
+278,minakumari,131231378,Contempt Petition (Civil),15.0,155000,40,556,9.0
+279,sajda,131231379,Contempt Petition (Criminal),19.0,195000,44,170,6.0
+280,saaniya,131231380,Writ Petition,26.0,265000,51,330,9.0
+281,parmjeet,131231381,Contempt Petition (Criminal),14.0,145000,39,738,9.0
+282,anil,131231382,Writ Petition,0.0,5000,25,650,6.0
+283,makrud,131231383,Petition for Special Leave to Appeal,18.0,185000,43,772,8.0
+284,naman,131231384,Civil (Appeal) Petition,7.0,75000,32,790,4.0
+285,shsi,131231385,Petition for Special Leave to Appeal,2.0,25000,27,375,8.0
+286,deerendra,131231386,Original Suit,9.0,95000,34,111,6.0
+287,sandip,131231387,Writ Petition,32.0,325000,57,287,2.0
+288,susma,131231388,Writ Petition,27.0,275000,52,637,6.0
+289,saira,131231389,Election Petition,34.0,345000,59,337,1.0
+290,jugani,131231390,Civil (Appeal) Petition,19.0,195000,44,252,8.0
+291,sharad,131231391,Original Suit,6.0,65000,31,246,7.0
+292,faimuddin,131231392,Criminal Appeal Petition,19.0,195000,44,583,3.0
+293,premwati,131231393,Original Suit,5.0,55000,30,138,1.0
+294,deen,131231394,Arbitration Petition,1.0,15000,26,283,8.0
+295,mahbir,131231395,Writ Petition,19.0,195000,44,63,1.0
+296,pannalal,131231396,Arbitration Petition,35.0,355000,60,32,2.0
+297,kinya,131231397,Criminal Appeal Petition,1.0,15000,26,508,9.0
+298,neelam,131231398,Original Suit,26.0,265000,51,50,4.0
+299,mashli,131231399,Transferred Case Petition,17.0,175000,42,236,8.0
+300,mnyak,131231400,Writ Petition,19.0,195000,44,568,2.0
+301,sant,131231401,Petition for Special Leave to Appeal,14.0,145000,39,411,3.0
+302,roopnarayan,131231402,Transferred Case Petition,22.0,225000,47,437,1.0
+303,shailesh,131231403,Contempt Petition (Civil),27.0,275000,52,289,8.0
+304,marjina,131231404,Petition for Special Leave to Appeal,38.0,385000,63,665,5.0
+305,bashudev,131231405,Criminal Appeal Petition,21.0,215000,46,449,9.0
+306,gargi,131231406,Civil (Appeal) Petition,8.0,85000,33,33,9.0
+307,revti,131231407,Arbitration Petition,1.0,15000,26,505,2.0
+308,fauina,131231408,Arbitration Petition,8.0,85000,33,683,1.0
+309,riyajudin,131231409,Contempt Petition (Civil),12.0,125000,37,724,7.0
+310,gulwasha,131231410,Contempt Petition (Civil),1.0,15000,26,32,1.0
+311,janesh,131231411,Civil (Appeal) Petition,17.0,175000,42,207,5.0
+312,budhu,131231412,Criminal Appeal Petition,5.0,55000,30,160,7.0
+313,nshima,131231413,Original Suit,4.0,45000,29,347,9.0
+314,tilk,131231414,Contempt Petition (Criminal),24.0,245000,49,212,9.0
+315,ashtha,131231415,Criminal Appeal Petition,26.0,265000,51,373,6.0
+316,shiena,131231416,Original Suit,3.0,35000,28,45,5.0
+317,ravidutt,131231417,Civil (Appeal) Petition,39.0,395000,64,358,2.0
+318,priju,131231418,Petition for Special Leave to Appeal,21.0,215000,46,713,6.0
+319,priya,131231419,Criminal Appeal Petition,25.0,255000,50,781,1.0
+320,trilok,131231420,Criminal Appeal Petition,9.0,95000,34,419,8.0
+321,ravinath,131231421,Writ Petition,6.0,65000,31,750,3.0
+322,bhojaram,131231422,Civil (Appeal) Petition,21.0,215000,46,218,9.0
+323,bhoopsingh,131231423,Original Suit,27.0,275000,52,334,3.0
+324,randheer,131231424,Election Petition,3.0,35000,28,717,1.0
+325,mukkesh,131231425,Election Petition,32.0,325000,57,201,7.0
+326,rudra,131231426,Criminal Appeal Petition,24.0,245000,49,194,1.0
+327,pushpawati,131231427,Original Suit,36.0,365000,61,701,9.0
+328,satyadev,131231428,Writ Petition,10.0,105000,35,497,1.0
+329,sakal,131231429,Election Petition,9.0,95000,34,200,9.0
+330,poma,131231430,Transferred Case Petition,37.0,375000,62,605,4.0
+331,pryinka,131231431,Contempt Petition (Civil),27.0,275000,52,164,2.0
+332,kesavi,131231432,Original Suit,35.0,355000,60,74,9.0
+333,manish,131231433,Transferred Case Petition,2.0,25000,27,440,5.0
+334,susan,131231434,Election Petition,6.0,65000,31,740,6.0
+335,nanshi,131231435,Criminal Appeal Petition,1.0,15000,26,530,2.0
+336,sugandha,131231436,Civil (Appeal) Petition,11.0,115000,36,144,8.0
+337,teja,131231437,Arbitration Petition,27.0,275000,52,365,2.0
+338,mosmi,131231438,Writ Petition,39.0,395000,64,593,6.0
+339,lucky,131231439,Criminal Appeal Petition,22.0,225000,47,306,1.0
+340,bhalaram,131231440,Civil (Appeal) Petition,38.0,385000,63,608,3.0
+341,janmesh,131231441,Criminal Appeal Petition,33.0,335000,58,654,8.0
+342,sourabh,131231442,Election Petition,8.0,85000,33,367,5.0
+343,mahavir,131231443,Transferred Case Petition,21.0,215000,46,219,8.0
+344,mahadevi,131231444,Contempt Petition (Civil),37.0,375000,62,529,9.0
+345,pravendra,131231445,Arbitration Petition,1.0,15000,26,378,7.0
+346,tapender,131231446,Arbitration Petition,25.0,255000,50,395,9.0
+347,ilayat,131231447,Contempt Petition (Criminal),36.0,365000,61,782,7.0
+348,shaila,131231448,Criminal Appeal Petition,6.0,65000,31,371,9.0
+349,mosam,131231449,Criminal Appeal Petition,23.0,235000,48,458,7.0
+350,kalu,131231450,Transferred Case Petition,35.0,355000,60,615,4.0
+351,shrishti,131231451,Election Petition,34.0,345000,59,783,5.0
+352,sawatri,131231452,Writ Petition,19.0,195000,44,491,3.0
+353,kusumakar,131231453,Election Petition,27.0,275000,52,69,4.0
+354,vinay,131231454,Writ Petition,5.0,55000,30,207,7.0
+355,pushpan,131231455,Writ Petition,35.0,355000,60,159,2.0
+356,charanjeet,131231456,Transferred Case Petition,21.0,215000,46,476,9.0
+357,kachan,131231457,Writ Petition,32.0,325000,57,520,6.0
+358,rachpreet,131231458,Writ Petition,34.0,345000,59,594,3.0
+359,kangana,131231459,Civil (Appeal) Petition,39.0,395000,64,207,1.0
+360,ramtek,131231460,Contempt Petition (Criminal),32.0,325000,57,267,6.0
+361,sawariya,131231461,Election Petition,23.0,235000,48,600,7.0
+362,nasruddin,131231462,Civil (Appeal) Petition,7.0,75000,32,386,4.0
+363,sanjay,131231463,Contempt Petition (Civil),24.0,245000,49,303,5.0
+364,kirann,131231464,Contempt Petition (Civil),19.0,195000,44,335,5.0
+365,riju,131231465,Civil (Appeal) Petition,2.0,25000,27,470,2.0
+366,sabhana,131231466,Civil (Appeal) Petition,9.0,95000,34,70,6.0
+367,prinkaya,131231467,Transferred Case Petition,9.0,95000,34,288,8.0
+368,selva,131231468,Arbitration Petition,8.0,85000,33,649,7.0
+369,vrendra,131231469,Original Suit,4.0,45000,29,675,7.0
+370,sajia,131231470,Contempt Petition (Civil),16.0,165000,41,469,6.0
+371,altab,131231471,Election Petition,36.0,365000,61,76,3.0
+372,mursida,131231472,Writ Petition,36.0,365000,61,308,6.0
+373,laxmi,131231473,Contempt Petition (Civil),13.0,135000,38,32,9.0
+374,rajan,131231474,Election Petition,23.0,235000,48,240,8.0
+375,halkuji,131231475,Transferred Case Petition,19.0,195000,44,617,9.0
+376,sujan,131231476,Writ Petition,4.0,45000,29,770,7.0
+377,naeem,131231477,Original Suit,36.0,365000,61,365,4.0
+378,savreen,131231478,Transferred Case Petition,22.0,225000,47,123,3.0
+379,atif,131231479,Petition for Special Leave to Appeal,7.0,75000,32,216,1.0
+380,manash,131231480,Criminal Appeal Petition,19.0,195000,44,145,4.0
+381,bhoori,131231481,Arbitration Petition,33.0,335000,58,722,7.0
+382,gulsan,131231482,Contempt Petition (Criminal),0.0,5000,25,458,8.0
+383,gafur,131231483,Petition for Special Leave to Appeal,38.0,385000,63,78,7.0
+384,homa,131231484,Writ Petition,15.0,155000,40,153,9.0
+385,vinayak,131231485,Criminal Appeal Petition,11.0,115000,36,727,7.0
+386,surindera,131231486,Writ Petition,5.0,55000,30,660,5.0
+387,kuntesh,131231487,Election Petition,6.0,65000,31,195,2.0
+388,darshan,131231488,Contempt Petition (Criminal),33.0,335000,58,304,6.0
+389,jaswinder,131231489,Writ Petition,7.0,75000,32,368,3.0
+390,ajnoor,131231490,Transferred Case Petition,0.0,5000,25,330,8.0
+391,shma,131231491,Civil (Appeal) Petition,19.0,195000,44,673,8.0
+392,sukhlal,131231492,Contempt Petition (Criminal),23.0,235000,48,319,7.0
+393,kirti,131231493,Arbitration Petition,5.0,55000,30,311,2.0
+394,udal,131231494,Transferred Case Petition,3.0,35000,28,508,8.0
+395,mira,131231495,Contempt Petition (Criminal),12.0,125000,37,424,7.0
+396,keshav,131231496,Petition for Special Leave to Appeal,18.0,185000,43,522,3.0
+397,nathani,131231497,Writ Petition,8.0,85000,33,166,2.0
+398,zeenat,131231498,Original Suit,39.0,395000,64,487,1.0
+399,chosh,131231499,Civil (Appeal) Petition,33.0,335000,58,531,3.0
+400,khadak,131231500,Petition for Special Leave to Appeal,15.0,155000,40,359,3.0
+401,monupal,131231501,Contempt Petition (Criminal),21.0,215000,46,128,3.0
+402,indraj,131231502,Writ Petition,33.0,335000,58,703,2.0
+403,bhikhari,131231503,Election Petition,12.0,125000,37,538,1.0
+404,long,131231504,Contempt Petition (Civil),27.0,275000,52,671,1.0
+405,neeru,131231505,Arbitration Petition,22.0,225000,47,531,5.0
+406,piyus,131231506,Contempt Petition (Criminal),19.0,195000,44,372,7.0
+407,phoolmani,131231507,Petition for Special Leave to Appeal,11.0,115000,36,680,1.0
+408,noori,131231508,Writ Petition,38.0,385000,63,628,4.0
+409,kamreen,131231509,Writ Petition,37.0,375000,62,424,9.0
+410,aashish,131231510,Contempt Petition (Criminal),5.0,55000,30,406,9.0
+411,faizur,131231511,Contempt Petition (Civil),30.0,305000,55,530,8.0
+412,bacchu,131231512,Writ Petition,0.0,5000,25,282,3.0
+413,shilly,131231513,Criminal Appeal Petition,4.0,45000,29,565,1.0
+414,yogeshwari,131231514,Arbitration Petition,12.0,125000,37,297,1.0
+415,nameeta,131231515,Writ Petition,31.0,315000,56,576,7.0
+416,sudhanshu,131231516,Writ Petition,33.0,335000,58,641,3.0
+417,lasar,131231517,Civil (Appeal) Petition,29.0,295000,54,485,3.0
+418,cosmic,131231518,Transferred Case Petition,18.0,185000,43,760,8.0
+419,ladakunvar,131231519,Civil (Appeal) Petition,28.0,285000,53,186,9.0
+420,naseem,131231520,Contempt Petition (Criminal),15.0,155000,40,713,8.0
+421,farmaan,131231521,Original Suit,6.0,65000,31,179,3.0
+422,risiraj,131231522,Criminal Appeal Petition,14.0,145000,39,625,6.0
+423,ramdhan,131231523,Criminal Appeal Petition,27.0,275000,52,723,3.0
+424,meenakshi,131231524,Election Petition,3.0,35000,28,316,5.0
+425,mantosh,131231525,Civil (Appeal) Petition,11.0,115000,36,140,6.0
+426,ramdhani,131231526,Criminal Appeal Petition,0.0,5000,25,633,5.0
+427,shisupal,131231527,Criminal Appeal Petition,33.0,335000,58,645,9.0
+428,sohaib,131231528,Petition for Special Leave to Appeal,36.0,365000,61,248,7.0
+429,danish,131231529,Contempt Petition (Criminal),23.0,235000,48,535,3.0
+430,kajul,131231530,Writ Petition,1.0,15000,26,755,3.0
+431,brijshwaer,131231531,Transferred Case Petition,16.0,165000,41,552,7.0
+432,jasvir,131231532,Transferred Case Petition,29.0,295000,54,344,4.0
+433,guru,131231533,Petition for Special Leave to Appeal,25.0,255000,50,696,1.0
+434,ayush,131231534,Contempt Petition (Criminal),36.0,365000,61,129,5.0
+435,sanu,131231535,Original Suit,20.0,205000,45,342,4.0
+436,amrta,131231536,Writ Petition,10.0,105000,35,597,2.0
+437,mobin,131231537,Election Petition,24.0,245000,49,92,6.0
+438,nisa,131231538,Contempt Petition (Criminal),3.0,35000,28,123,5.0
+439,shanah,131231539,Election Petition,36.0,365000,61,480,8.0
+440,daulat,131231540,Transferred Case Petition,17.0,175000,42,684,9.0
+441,anli,131231541,Original Suit,8.0,85000,33,145,8.0
+442,neemi,131231542,Petition for Special Leave to Appeal,17.0,175000,42,399,8.0
+443,malvika,131231543,Contempt Petition (Criminal),19.0,195000,44,746,4.0
+444,mukram,131231544,Criminal Appeal Petition,27.0,275000,52,624,1.0
+445,beena,131231545,Writ Petition,29.0,295000,54,478,7.0
+446,shahgujta,131231546,Election Petition,7.0,75000,32,180,5.0
+447,aamrin,131231547,Election Petition,12.0,125000,37,723,1.0
+448,aavesh,131231548,Contempt Petition (Criminal),17.0,175000,42,494,1.0
+449,narhasi,131231549,Original Suit,21.0,215000,46,576,4.0
+450,chand,131231550,Original Suit,39.0,395000,64,409,4.0
+451,kashis,131231551,Election Petition,19.0,195000,44,368,2.0
+452,kusham,131231552,Original Suit,15.0,155000,40,580,5.0
+453,khushbhu,131231553,Election Petition,35.0,355000,60,518,4.0
+454,ishatkar,131231554,Election Petition,18.0,185000,43,547,6.0
+455,amrik,131231555,Civil (Appeal) Petition,6.0,65000,31,256,6.0
+456,bisto,131231556,Criminal Appeal Petition,38.0,385000,63,589,8.0
+457,amie,131231557,Transferred Case Petition,5.0,55000,30,743,5.0
+458,soam,131231558,Arbitration Petition,28.0,285000,53,317,9.0
+459,hasan,131231559,Transferred Case Petition,5.0,55000,30,400,2.0
+460,mahboob,131231560,Election Petition,38.0,385000,63,392,5.0
+461,vikramjeet,131231561,Transferred Case Petition,20.0,205000,45,479,1.0
+462,raud,131231562,Writ Petition,17.0,175000,42,98,3.0
+463,manali,131231563,Writ Petition,12.0,125000,37,123,7.0
+464,frjana,131231564,Contempt Petition (Criminal),30.0,305000,55,351,4.0
+465,jabir,131231565,Original Suit,16.0,165000,41,247,9.0
+466,saif,131231566,Contempt Petition (Criminal),6.0,65000,31,506,5.0
+467,ruchendra,131231567,Writ Petition,12.0,125000,37,340,4.0
+468,babul,131231568,Election Petition,13.0,135000,38,721,6.0
+469,mony,131231569,Contempt Petition (Criminal),18.0,185000,43,526,6.0
+470,tane,131231570,Civil (Appeal) Petition,19.0,195000,44,756,7.0
+471,abhishiek,131231571,Original Suit,18.0,185000,43,513,8.0
+472,asman,131231572,Writ Petition,18.0,185000,43,754,1.0
+473,perdeep,131231573,Original Suit,23.0,235000,48,53,9.0
+474,mohmmad,131231574,Arbitration Petition,26.0,265000,51,752,7.0
+475,bipin,131231575,Election Petition,32.0,325000,57,231,5.0
+476,ajab,131231576,Arbitration Petition,23.0,235000,48,411,1.0
+477,busness,131231577,Transferred Case Petition,2.0,25000,27,252,6.0
+478,veerbhan,131231578,Original Suit,16.0,165000,41,98,6.0
+479,simranjeet,131231579,Election Petition,22.0,225000,47,192,9.0
+480,chaturbhuj,131231580,Criminal Appeal Petition,23.0,235000,48,578,3.0
+481,sayana,131231581,Writ Petition,5.0,55000,30,49,3.0
+482,mousin,131231582,Civil (Appeal) Petition,18.0,185000,43,446,1.0
+483,harib,131231583,Contempt Petition (Criminal),37.0,375000,62,396,5.0
+484,panku,131231584,Original Suit,36.0,365000,61,668,6.0
+485,arsi,131231585,Election Petition,34.0,345000,59,173,4.0
+486,shahnam,131231586,Transferred Case Petition,12.0,125000,37,480,9.0
+487,motilaal,131231587,Contempt Petition (Civil),28.0,285000,53,454,7.0
+488,roji,131231588,Contempt Petition (Criminal),38.0,385000,63,47,8.0
+489,malti,131231589,Contempt Petition (Criminal),22.0,225000,47,790,7.0
+490,udi,131231590,Contempt Petition (Criminal),35.0,355000,60,606,4.0
+491,abhilash,131231591,Writ Petition,17.0,175000,42,83,8.0
+492,mihir,131231592,Civil (Appeal) Petition,4.0,45000,29,471,2.0
+493,subhi,131231593,Criminal Appeal Petition,20.0,205000,45,729,9.0
+494,somdevi,131231594,Arbitration Petition,26.0,265000,51,457,7.0
+495,himashu,131231595,Election Petition,21.0,215000,46,200,2.0
+496,bharti,131231596,Transferred Case Petition,0.0,5000,25,32,3.0
+497,bishnu,131231597,Arbitration Petition,6.0,65000,31,619,1.0
+498,sehnaj,131231598,Transferred Case Petition,11.0,115000,36,603,1.0
+499,avtar,131231599,Petition for Special Leave to Appeal,15.0,155000,40,265,8.0
+500,sawtri,131231600,Arbitration Petition,37.0,375000,62,139,6.0
+501,kishn,131231601,Election Petition,1.0,15000,26,628,9.0
+502,wasim,131231602,Transferred Case Petition,31.0,315000,56,790,6.0
+503,yashodha,131231603,Arbitration Petition,20.0,205000,45,784,3.0
+504,sudhata,131231604,Transferred Case Petition,32.0,325000,57,211,6.0
+505,shishul,131231605,Original Suit,29.0,295000,54,397,9.0
+506,sameem,131231606,Contempt Petition (Criminal),18.0,185000,43,724,5.0
+507,sattaram,131231607,Arbitration Petition,36.0,365000,61,556,3.0
+508,vakila,131231608,Original Suit,11.0,115000,36,202,2.0
+509,sukkhu,131231609,Election Petition,7.0,75000,32,211,6.0
+510,ujama,131231610,Writ Petition,37.0,375000,62,551,9.0
+511,rambha,131231611,Original Suit,22.0,225000,47,607,9.0
+512,rajam,131231612,Civil (Appeal) Petition,19.0,195000,44,795,3.0
+513,mukul,131231613,Transferred Case Petition,19.0,195000,44,47,5.0
+514,mam,131231614,Writ Petition,26.0,265000,51,363,3.0
+515,esrail,131231615,Contempt Petition (Criminal),17.0,175000,42,774,7.0
+516,shaukat,131231616,Transferred Case Petition,15.0,155000,40,38,6.0
+517,jawed,131231617,Civil (Appeal) Petition,4.0,45000,29,268,7.0
+518,chandabai,131231618,Election Petition,29.0,295000,54,662,7.0
+519,taj,131231619,Petition for Special Leave to Appeal,38.0,385000,63,54,1.0
+520,hasina,131231620,Arbitration Petition,10.0,105000,35,709,4.0
+521,satyender,131231621,Petition for Special Leave to Appeal,37.0,375000,62,597,9.0
+522,lali,131231622,Criminal Appeal Petition,24.0,245000,49,117,7.0
+523,bikki,131231623,Writ Petition,12.0,125000,37,379,2.0
+524,goldy,131231624,Contempt Petition (Civil),16.0,165000,41,244,9.0
+525,manvir,131231625,Election Petition,28.0,285000,53,463,8.0
+526,chandrram,131231626,Contempt Petition (Criminal),9.0,95000,34,374,5.0
+527,karamvir,131231627,Arbitration Petition,15.0,155000,40,178,3.0
+528,parul,131231628,Original Suit,31.0,315000,56,704,5.0
+529,prkesh,131231629,Contempt Petition (Civil),38.0,385000,63,242,8.0
+530,bhuwan,131231630,Transferred Case Petition,30.0,305000,55,107,4.0
+531,sugana,131231631,Arbitration Petition,19.0,195000,44,539,3.0
+532,vinoda,131231632,Criminal Appeal Petition,2.0,25000,27,465,7.0
+533,samadhan,131231633,Original Suit,26.0,265000,51,446,2.0
+534,hakam,131231634,Contempt Petition (Criminal),22.0,225000,47,370,6.0
+535,janeshwar,131231635,Criminal Appeal Petition,24.0,245000,49,419,2.0
+536,beni,131231636,Original Suit,36.0,365000,61,655,8.0
+537,deepaak,131231637,Transferred Case Petition,17.0,175000,42,420,4.0
+538,shobha,131231638,Contempt Petition (Civil),31.0,315000,56,634,1.0
+539,bhima,131231639,Contempt Petition (Civil),39.0,395000,64,32,5.0
+540,aditya,131231640,Contempt Petition (Civil),10.0,105000,35,499,9.0
+541,sabrina,131231641,Petition for Special Leave to Appeal,3.0,35000,28,146,5.0
+542,muqhtar,131231642,Writ Petition,0.0,5000,25,103,5.0
+543,gawri,131231643,Election Petition,2.0,25000,27,39,1.0
+544,harsh,131231644,Original Suit,9.0,95000,34,346,4.0
+545,ranjna,131231645,Contempt Petition (Criminal),19.0,195000,44,66,1.0
+546,archan,131231646,Criminal Appeal Petition,39.0,395000,64,86,8.0
+547,angda,131231647,Criminal Appeal Petition,37.0,375000,62,771,7.0
+548,bhim,131231648,Contempt Petition (Criminal),14.0,145000,39,431,5.0
+549,lakki,131231649,Criminal Appeal Petition,7.0,75000,32,99,4.0
+550,sameeruddin,131231650,Arbitration Petition,6.0,65000,31,749,3.0
+551,surgayani,131231651,Contempt Petition (Criminal),12.0,125000,37,156,4.0
+552,chandini,131231652,Transferred Case Petition,11.0,115000,36,598,7.0
+553,rijakpal,131231653,Contempt Petition (Civil),2.0,25000,27,190,7.0
+554,gul,131231654,Election Petition,36.0,365000,61,348,3.0
+555,ekamjeet,131231655,Original Suit,4.0,45000,29,384,2.0
+556,brij,131231656,Arbitration Petition,6.0,65000,31,549,9.0
+557,shjad,131231657,Writ Petition,26.0,265000,51,251,4.0
+558,kulina,131231658,Writ Petition,26.0,265000,51,399,8.0
+559,mohanlal,131231659,Contempt Petition (Criminal),2.0,25000,27,260,5.0
+560,manjula,131231660,Writ Petition,37.0,375000,62,664,2.0
+561,sally,131231661,Contempt Petition (Criminal),2.0,25000,27,483,8.0
+562,shanaj,131231662,Original Suit,7.0,75000,32,457,3.0
+563,kalusingh,131231663,Criminal Appeal Petition,1.0,15000,26,312,4.0
+564,gulabsa,131231664,Criminal Appeal Petition,26.0,265000,51,35,1.0
+565,jagnath,131231665,Contempt Petition (Civil),14.0,145000,39,668,5.0
+566,sehran,131231666,Criminal Appeal Petition,14.0,145000,39,257,8.0
+567,manbai,131231667,Original Suit,21.0,215000,46,663,9.0
+568,amrjeet,131231668,Criminal Appeal Petition,35.0,355000,60,623,8.0
+569,mastan,131231669,Writ Petition,7.0,75000,32,568,3.0
+570,banwarilal,131231670,Writ Petition,34.0,345000,59,740,6.0
+571,amir,131231671,Criminal Appeal Petition,20.0,205000,45,656,9.0
+572,tipu,131231672,Writ Petition,17.0,175000,42,299,1.0
+573,pawansingh,131231673,Contempt Petition (Civil),13.0,135000,38,203,2.0
+574,kunal,131231674,Contempt Petition (Civil),23.0,235000,48,310,2.0
+575,nachita,131231675,Original Suit,15.0,155000,40,93,1.0
+576,kasid,131231676,Criminal Appeal Petition,24.0,245000,49,459,5.0
+577,ilyas,131231677,Criminal Appeal Petition,2.0,25000,27,120,9.0
+578,shanker,131231678,Transferred Case Petition,29.0,295000,54,772,1.0
+579,hoor,131231679,Transferred Case Petition,11.0,115000,36,167,9.0
+580,parbhat,131231680,Writ Petition,39.0,395000,64,136,5.0
+581,ketan,131231681,Arbitration Petition,29.0,295000,54,267,4.0
+582,parbhu,131231682,Petition for Special Leave to Appeal,39.0,395000,64,372,2.0
+583,khairu,131231683,Criminal Appeal Petition,11.0,115000,36,621,8.0
+584,mudssir,131231684,Contempt Petition (Criminal),15.0,155000,40,720,4.0
+585,rghuraj,131231685,Writ Petition,4.0,45000,29,280,6.0
+586,girijarani,131231686,Civil (Appeal) Petition,12.0,125000,37,640,2.0
+587,kamana,131231687,Civil (Appeal) Petition,17.0,175000,42,364,7.0
+588,rohila,131231688,Transferred Case Petition,32.0,325000,57,728,4.0
+589,aaliya,131231689,Criminal Appeal Petition,16.0,165000,41,467,8.0
+590,veerander,131231690,Petition for Special Leave to Appeal,1.0,15000,26,438,4.0
+591,rukshana,131231691,Civil (Appeal) Petition,35.0,355000,60,529,3.0
+592,ramkumari,131231692,Arbitration Petition,3.0,35000,28,506,9.0
+593,sahlesh,131231693,Election Petition,37.0,375000,62,89,8.0
+594,noojo,131231694,Election Petition,16.0,165000,41,50,4.0
+595,baccha,131231695,Civil (Appeal) Petition,20.0,205000,45,652,4.0
+596,shakshi,131231696,Writ Petition,18.0,185000,43,333,5.0
+597,asarfi,131231697,Writ Petition,8.0,85000,33,393,1.0
+598,krishnal,131231698,Civil (Appeal) Petition,32.0,325000,57,269,8.0
+599,hema,131231699,Petition for Special Leave to Appeal,1.0,15000,26,609,2.0
+600,kifayat,131231700,Contempt Petition (Civil),21.0,215000,46,406,5.0
+601,samay,131231701,Arbitration Petition,15.0,155000,40,407,9.0
+602,udita,131231702,Original Suit,24.0,245000,49,712,2.0
+603,madhan,131231703,Writ Petition,34.0,345000,59,235,3.0
+604,chinta,131231704,Transferred Case Petition,4.0,45000,29,628,5.0
+605,tinvkal,131231705,Writ Petition,20.0,205000,45,674,5.0
+606,prayatan,131231706,Arbitration Petition,10.0,105000,35,265,2.0
+607,taiyab,131231707,Contempt Petition (Civil),10.0,105000,35,630,3.0
+608,rolly,131231708,Civil (Appeal) Petition,10.0,105000,35,348,2.0
+609,nagia,131231709,Original Suit,10.0,105000,35,49,9.0
+610,neha,131231710,Criminal Appeal Petition,0.0,5000,25,183,1.0
+611,jahid,131231711,Petition for Special Leave to Appeal,30.0,305000,55,655,3.0
+612,aishwarya,131231712,Petition for Special Leave to Appeal,36.0,365000,61,196,1.0
+613,jaquir,131231713,Criminal Appeal Petition,19.0,195000,44,343,2.0
+614,girja,131231714,Contempt Petition (Criminal),23.0,235000,48,720,6.0
+615,anjrej,131231715,Petition for Special Leave to Appeal,25.0,255000,50,228,1.0
+616,rma,131231716,Original Suit,28.0,285000,53,433,9.0
+617,veepal,131231717,Civil (Appeal) Petition,21.0,215000,46,489,6.0
+618,rafi,131231718,Contempt Petition (Civil),30.0,305000,55,156,7.0
+619,satwanti,131231719,Contempt Petition (Criminal),27.0,275000,52,155,3.0
+620,bhuli,131231720,Contempt Petition (Criminal),10.0,105000,35,59,4.0
+621,suraj,131231721,Contempt Petition (Criminal),28.0,285000,53,263,4.0
+622,faaija,131231722,Contempt Petition (Criminal),17.0,175000,42,131,5.0
+623,buddhi,131231723,Arbitration Petition,9.0,95000,34,765,4.0
+624,guddiya,131231724,Civil (Appeal) Petition,20.0,205000,45,414,7.0
+625,mulina,131231725,Transferred Case Petition,36.0,365000,61,692,8.0
+626,hemanshu,131231726,Contempt Petition (Civil),2.0,25000,27,318,5.0
+627,murjina,131231727,Writ Petition,16.0,165000,41,740,6.0
+628,jameer,131231728,Election Petition,16.0,165000,41,165,2.0
+629,joshna,131231729,Contempt Petition (Criminal),19.0,195000,44,391,2.0
+630,kailash,131231730,Transferred Case Petition,17.0,175000,42,261,8.0
+631,alina,131231731,Civil (Appeal) Petition,33.0,335000,58,552,4.0
+632,mubarik,131231732,Original Suit,18.0,185000,43,230,4.0
+633,rohan,131231733,Petition for Special Leave to Appeal,18.0,185000,43,497,7.0
+634,cheddi,131231734,Election Petition,37.0,375000,62,136,3.0
+635,rijvan,131231735,Petition for Special Leave to Appeal,8.0,85000,33,264,9.0
+636,sooraj,131231736,Writ Petition,3.0,35000,28,308,8.0
+637,shahjadi,131231737,Arbitration Petition,11.0,115000,36,272,1.0
+638,kiran,131231738,Contempt Petition (Civil),6.0,65000,31,578,3.0
+639,sidarth,131231739,Criminal Appeal Petition,35.0,355000,60,110,8.0
+640,premsingh,131231740,Petition for Special Leave to Appeal,4.0,45000,29,486,6.0
+641,tapsam,131231741,Election Petition,24.0,245000,49,105,2.0
+642,sundari,131231742,Writ Petition,37.0,375000,62,440,5.0
+643,aanand,131231743,Criminal Appeal Petition,9.0,95000,34,596,1.0
+644,nirja,131231744,Arbitration Petition,33.0,335000,58,794,8.0
+645,saranjeet,131231745,Contempt Petition (Criminal),37.0,375000,62,389,3.0
+646,tony,131231746,Election Petition,33.0,335000,58,189,7.0
+647,sosan,131231747,Election Petition,31.0,315000,56,748,4.0
+648,shahin,131231748,Election Petition,18.0,185000,43,205,8.0
+649,adrash,131231749,Writ Petition,17.0,175000,42,255,9.0
+650,santlal,131231750,Writ Petition,22.0,225000,47,698,9.0
+651,nihalchand,131231751,Writ Petition,33.0,335000,58,446,3.0
+652,alseepa,131231752,Contempt Petition (Civil),31.0,315000,56,612,7.0
+653,sahil,131231753,Arbitration Petition,29.0,295000,54,629,1.0
+654,rubina,131231754,Writ Petition,29.0,295000,54,258,5.0
+655,rajinder,131231755,Civil (Appeal) Petition,14.0,145000,39,315,7.0
+656,radikha,131231756,Writ Petition,24.0,245000,49,202,4.0
+657,radhadalal,131231757,Original Suit,25.0,255000,50,448,3.0
+658,karim,131231758,Original Suit,34.0,345000,59,163,7.0
+659,saroj,131231759,Election Petition,32.0,325000,57,583,4.0
+660,baijnath,131231760,Transferred Case Petition,11.0,115000,36,117,3.0
+661,mehraj,131231761,Criminal Appeal Petition,24.0,245000,49,111,3.0
+662,ashshwer,131231762,Election Petition,33.0,335000,58,31,1.0
+663,firoz,131231763,Writ Petition,38.0,385000,63,761,7.0
+664,anoura,131231764,Original Suit,3.0,35000,28,416,7.0
+665,sayma,131231765,Contempt Petition (Criminal),39.0,395000,64,533,7.0
+666,chirag,131231766,Civil (Appeal) Petition,24.0,245000,49,231,2.0
+667,manjesh,131231767,Contempt Petition (Criminal),31.0,315000,56,615,8.0
+668,dipansu,131231768,Original Suit,18.0,185000,43,519,3.0
+669,dumani,131231769,Contempt Petition (Criminal),8.0,85000,33,345,7.0
+670,anuj,131231770,Transferred Case Petition,29.0,295000,54,466,6.0
+671,satrudan,131231771,Writ Petition,8.0,85000,33,658,6.0
+672,vimlesh,131231772,Civil (Appeal) Petition,38.0,385000,63,292,2.0
+673,amarmula,131231773,Contempt Petition (Criminal),17.0,175000,42,717,4.0
+674,zishan,131231774,Contempt Petition (Civil),19.0,195000,44,533,8.0
+675,israil,131231775,Writ Petition,4.0,45000,29,186,5.0
+676,aaradhana,131231776,Petition for Special Leave to Appeal,38.0,385000,63,162,7.0
+677,san,131231777,Transferred Case Petition,14.0,145000,39,726,8.0
+678,keshar,131231778,Criminal Appeal Petition,11.0,115000,36,155,6.0
+679,amil,131231779,Petition for Special Leave to Appeal,32.0,325000,57,74,7.0
+680,shaulal,131231780,Civil (Appeal) Petition,13.0,135000,38,420,7.0
+681,hamza,131231781,Criminal Appeal Petition,5.0,55000,30,595,8.0
+682,ranjit,131231782,Contempt Petition (Civil),35.0,355000,60,404,8.0
+683,tania,131231783,Contempt Petition (Civil),5.0,55000,30,686,7.0
+684,safika,131231784,Transferred Case Petition,21.0,215000,46,366,7.0
+685,chhotu,131231785,Arbitration Petition,17.0,175000,42,441,4.0
+686,gulnaj,131231786,Transferred Case Petition,12.0,125000,37,365,3.0
+687,garib,131231787,Criminal Appeal Petition,23.0,235000,48,588,7.0
+688,omperkash,131231788,Arbitration Petition,5.0,55000,30,619,8.0
+689,iqbal,131231789,Petition for Special Leave to Appeal,25.0,255000,50,315,5.0
+690,krishka,131231790,Writ Petition,33.0,335000,58,329,2.0
+691,manu,131231791,Criminal Appeal Petition,34.0,345000,59,451,4.0
+692,sujanti,131231792,Transferred Case Petition,28.0,285000,53,753,2.0
+693,jayantadass,131231793,Civil (Appeal) Petition,15.0,155000,40,535,9.0
+694,parsann,131231794,Criminal Appeal Petition,20.0,205000,45,458,8.0
+695,sushhmita,131231795,Petition for Special Leave to Appeal,10.0,105000,35,156,4.0
+696,abul,131231796,Election Petition,27.0,275000,52,372,6.0
+697,jisu,131231797,Original Suit,11.0,115000,36,663,2.0
+698,jagir,131231798,Transferred Case Petition,2.0,25000,27,209,5.0
+699,juvel,131231799,Arbitration Petition,20.0,205000,45,712,9.0
+700,monini,131231800,Criminal Appeal Petition,21.0,215000,46,386,9.0
+701,bhagirath,131231801,Civil (Appeal) Petition,13.0,135000,38,123,2.0
+702,mookan,131231802,Criminal Appeal Petition,24.0,245000,49,518,7.0
+703,karishan,131231803,Contempt Petition (Criminal),37.0,375000,62,361,5.0
+704,jayotli,131231804,Petition for Special Leave to Appeal,0.0,5000,25,777,3.0
+705,jhunnu,131231805,Petition for Special Leave to Appeal,7.0,75000,32,705,6.0
+706,jaslin,131231806,Original Suit,32.0,325000,57,788,9.0
+707,affan,131231807,Original Suit,5.0,55000,30,577,8.0
+708,chabi,131231808,Contempt Petition (Civil),9.0,95000,34,200,6.0
+709,monny,131231809,Petition for Special Leave to Appeal,0.0,5000,25,130,3.0
+710,preetam,131231810,Contempt Petition (Criminal),5.0,55000,30,258,1.0
+711,parshu,131231811,Transferred Case Petition,33.0,335000,58,539,9.0
+712,dhakhadevi,131231812,Criminal Appeal Petition,33.0,335000,58,302,2.0
+713,nikahat,131231813,Original Suit,28.0,285000,53,696,5.0
+714,rabina,131231814,Petition for Special Leave to Appeal,39.0,395000,64,774,4.0
+715,asana,131231815,Election Petition,26.0,265000,51,750,7.0
+716,bismilla,131231816,Transferred Case Petition,30.0,305000,55,93,9.0
+717,gulab,131231817,Contempt Petition (Criminal),38.0,385000,63,567,2.0
+718,pramjeet,131231818,Civil (Appeal) Petition,6.0,65000,31,36,4.0
+719,sardhu,131231819,Contempt Petition (Criminal),17.0,175000,42,171,3.0
+720,badarjahan,131231820,Transferred Case Petition,16.0,165000,41,48,3.0
+721,jeevanlata,131231821,Contempt Petition (Civil),25.0,255000,50,143,4.0
+722,bhotra,131231822,Arbitration Petition,31.0,315000,56,365,4.0
+723,umang,131231823,Election Petition,5.0,55000,30,513,2.0
+724,shahabuddin,131231824,Contempt Petition (Civil),1.0,15000,26,188,9.0
+725,sushma,131231825,Writ Petition,24.0,245000,49,360,6.0
+726,sri,131231826,Writ Petition,5.0,55000,30,621,6.0
+727,jitin,131231827,Contempt Petition (Civil),8.0,85000,33,299,5.0
+728,iema,131231828,Civil (Appeal) Petition,4.0,45000,29,601,6.0
+729,sajini,131231829,Contempt Petition (Criminal),14.0,145000,39,505,9.0
+730,panchi,131231830,Election Petition,36.0,365000,61,197,5.0
+731,emran,131231831,Writ Petition,2.0,25000,27,780,6.0
+732,dharvesh,131231832,Civil (Appeal) Petition,17.0,175000,42,652,8.0
+733,shrikant,131231833,Civil (Appeal) Petition,1.0,15000,26,121,2.0
+734,reeta,131231834,Election Petition,31.0,315000,56,659,4.0
+735,chiranjavi,131231835,Arbitration Petition,13.0,135000,38,68,8.0
+736,sinaa,131231836,Contempt Petition (Civil),22.0,225000,47,623,6.0
+737,shymo,131231837,Writ Petition,6.0,65000,31,84,6.0
+738,sagira,131231838,Contempt Petition (Criminal),37.0,375000,62,347,4.0
+739,salman,131231839,Contempt Petition (Civil),29.0,295000,54,590,7.0
+740,shivram,131231840,Original Suit,5.0,55000,30,161,5.0
+741,sablu,131231841,Criminal Appeal Petition,4.0,45000,29,568,9.0
+742,bachheshwar,131231842,Contempt Petition (Criminal),39.0,395000,64,318,4.0
+743,nimesh,131231843,Arbitration Petition,8.0,85000,33,608,6.0
+744,kelashi,131231844,Original Suit,33.0,335000,58,73,8.0
+745,sowar,131231845,Civil (Appeal) Petition,6.0,65000,31,220,6.0
+746,nandini,131231846,Civil (Appeal) Petition,25.0,255000,50,768,1.0
+747,lakhe,131231847,Transferred Case Petition,4.0,45000,29,514,3.0
+748,ashmi,131231848,Petition for Special Leave to Appeal,23.0,235000,48,504,7.0
+749,istikar,131231849,Writ Petition,5.0,55000,30,693,3.0
+750,bhavna,131231850,Civil (Appeal) Petition,14.0,145000,39,643,2.0
+751,jiya,131231851,Election Petition,13.0,135000,38,428,3.0
+752,pallvi,131231852,Criminal Appeal Petition,8.0,85000,33,327,3.0
+753,hiramani,131231853,Civil (Appeal) Petition,6.0,65000,31,88,6.0
+754,siza,131231854,Criminal Appeal Petition,19.0,195000,44,535,3.0
+755,ramsagar,131231855,Election Petition,7.0,75000,32,479,6.0
+756,umme,131231856,Original Suit,34.0,345000,59,635,7.0
+757,suhail,131231857,Arbitration Petition,14.0,145000,39,306,6.0
+758,muni,131231858,Contempt Petition (Criminal),30.0,305000,55,289,2.0
+759,junna,131231859,Original Suit,36.0,365000,61,608,5.0
+760,ujir,131231860,Petition for Special Leave to Appeal,26.0,265000,51,531,2.0
+761,janwi,131231861,Arbitration Petition,11.0,115000,36,639,5.0
+762,master,131231862,Original Suit,7.0,75000,32,181,6.0
+763,moka,131231863,Transferred Case Petition,25.0,255000,50,401,4.0
+764,satveer,131231864,Contempt Petition (Criminal),27.0,275000,52,421,4.0
+765,banty,131231865,Original Suit,15.0,155000,40,53,5.0
+766,afroz,131231866,Election Petition,31.0,315000,56,743,6.0
+767,warish,131231867,Arbitration Petition,22.0,225000,47,609,1.0
+768,vickey,131231868,Original Suit,19.0,195000,44,707,5.0
+769,sinil,131231869,Petition for Special Leave to Appeal,0.0,5000,25,379,7.0
+770,jony,131231870,Original Suit,12.0,125000,37,55,4.0
+771,bharati,131231871,Election Petition,0.0,5000,25,724,2.0
+772,sonu,131231872,Civil (Appeal) Petition,22.0,225000,47,565,1.0
+773,avi,131231873,Contempt Petition (Civil),11.0,115000,36,360,9.0
+774,shami,131231874,Petition for Special Leave to Appeal,34.0,345000,59,785,4.0
+775,jayanti,131231875,Civil (Appeal) Petition,16.0,165000,41,71,1.0
+776,yash,131231876,Criminal Appeal Petition,5.0,55000,30,115,6.0
+777,reemi,131231877,Election Petition,12.0,125000,37,430,2.0
+778,tabbasum,131231878,Transferred Case Petition,10.0,105000,35,182,7.0
+779,sabreen,131231879,Transferred Case Petition,28.0,285000,53,311,5.0
+780,chhotudevi,131231880,Contempt Petition (Civil),35.0,355000,60,71,7.0
+781,amisha,131231881,Writ Petition,8.0,85000,33,444,3.0
+782,samar,131231882,Criminal Appeal Petition,20.0,205000,45,615,1.0
+783,mangta,131231883,Arbitration Petition,6.0,65000,31,659,1.0
+784,kachri,131231884,Election Petition,8.0,85000,33,646,5.0
+785,vipiv,131231885,Petition for Special Leave to Appeal,37.0,375000,62,34,7.0
+786,jeesan,131231886,Petition for Special Leave to Appeal,7.0,75000,32,695,3.0
+787,vinita,131231887,Petition for Special Leave to Appeal,4.0,45000,29,683,4.0
+788,safiq,131231888,Petition for Special Leave to Appeal,33.0,335000,58,315,7.0
+789,dayaram,131231889,Writ Petition,31.0,315000,56,686,4.0
+790,kallu,131231890,Civil (Appeal) Petition,29.0,295000,54,407,9.0
+791,taslim,131231891,Civil (Appeal) Petition,28.0,285000,53,522,6.0
+792,hardik,131231892,Election Petition,13.0,135000,38,623,5.0
+793,mehinder,131231893,Petition for Special Leave to Appeal,18.0,185000,43,380,7.0
+794,puspa,131231894,Contempt Petition (Civil),35.0,355000,60,281,1.0
+795,kanki,131231895,Writ Petition,1.0,15000,26,33,6.0
+796,prashanat,131231896,Original Suit,26.0,265000,51,452,1.0
+797,aazad,131231897,Petition for Special Leave to Appeal,21.0,215000,46,599,5.0
+798,ratul,131231898,Arbitration Petition,13.0,135000,38,562,6.0
+799,jasbir,131231899,Civil (Appeal) Petition,4.0,45000,29,329,8.0
+800,aamil,131231900,Contempt Petition (Civil),13.0,135000,38,429,9.0
+801,baliram,131231901,Contempt Petition (Civil),8.0,85000,33,118,9.0
+802,amina,131231902,Civil (Appeal) Petition,25.0,255000,50,147,4.0
+803,pyari,131231903,Civil (Appeal) Petition,31.0,315000,56,367,7.0
+804,parmood,131231904,Writ Petition,1.0,15000,26,298,6.0
+805,saranthem,131231905,Contempt Petition (Civil),13.0,135000,38,521,4.0
+806,deeraj,131231906,Criminal Appeal Petition,8.0,85000,33,780,4.0
+807,rishaw,131231907,Civil (Appeal) Petition,6.0,65000,31,177,6.0
+808,vidhavati,131231908,Petition for Special Leave to Appeal,26.0,265000,51,797,3.0
+809,prabhjit,131231909,Contempt Petition (Criminal),5.0,55000,30,208,7.0
+810,ankaj,131231910,Civil (Appeal) Petition,20.0,205000,45,169,8.0
+811,saad,131231911,Criminal Appeal Petition,17.0,175000,42,500,3.0
+812,batul,131231912,Election Petition,38.0,385000,63,328,4.0
+813,rajbiri,131231913,Transferred Case Petition,13.0,135000,38,57,7.0
+814,kabid,131231914,Criminal Appeal Petition,8.0,85000,33,58,9.0
+815,nasira,131231915,Arbitration Petition,23.0,235000,48,204,1.0
+816,manjeet,131231916,Criminal Appeal Petition,4.0,45000,29,295,4.0
+817,mazida,131231917,Criminal Appeal Petition,16.0,165000,41,731,2.0
+818,gantantra,131231918,Criminal Appeal Petition,27.0,275000,52,289,7.0
+819,ziarul,131231919,Criminal Appeal Petition,32.0,325000,57,284,9.0
+820,nikita,131231920,Contempt Petition (Criminal),9.0,95000,34,386,4.0
+821,shanno,131231921,Transferred Case Petition,22.0,225000,47,372,3.0
+822,shrabani,131231922,Criminal Appeal Petition,22.0,225000,47,335,5.0
+823,laltes,131231923,Civil (Appeal) Petition,4.0,45000,29,201,5.0
+824,bittan,131231924,Contempt Petition (Civil),38.0,385000,63,536,5.0
+825,chhabil,131231925,Contempt Petition (Criminal),37.0,375000,62,258,8.0
+826,bandana,131231926,Original Suit,13.0,135000,38,684,8.0
+827,veronika,131231927,Contempt Petition (Civil),3.0,35000,28,524,5.0
+828,azruddin,131231928,Criminal Appeal Petition,6.0,65000,31,778,7.0
+829,richaraj,131231929,Petition for Special Leave to Appeal,12.0,125000,37,630,4.0
+830,piryanka,131231930,Petition for Special Leave to Appeal,27.0,275000,52,475,2.0
+831,khalil,131231931,Contempt Petition (Civil),32.0,325000,57,548,3.0
+832,rajish,131231932,Civil (Appeal) Petition,10.0,105000,35,559,1.0
+833,sahi,131231933,Writ Petition,23.0,235000,48,108,7.0
+834,harmani,131231934,Petition for Special Leave to Appeal,36.0,365000,61,69,9.0
+835,sahawaj,131231935,Contempt Petition (Civil),4.0,45000,29,769,5.0
+836,tanuja,131231936,Contempt Petition (Criminal),3.0,35000,28,755,9.0
+837,nabi,131231937,Transferred Case Petition,27.0,275000,52,484,9.0
+838,barkat,131231938,Original Suit,33.0,335000,58,412,2.0
+839,bhiva,131231939,Contempt Petition (Civil),26.0,265000,51,235,6.0
+840,avdhesh,131231940,Criminal Appeal Petition,6.0,65000,31,134,7.0
+841,nitam,131231941,Arbitration Petition,1.0,15000,26,555,2.0
+842,babita,131231942,Arbitration Petition,35.0,355000,60,84,1.0
+843,chanderwati,131231943,Writ Petition,0.0,5000,25,390,9.0
+844,dular,131231944,Arbitration Petition,13.0,135000,38,370,5.0
+845,roshini,131231945,Writ Petition,25.0,255000,50,798,8.0
+846,vandhana,131231946,Civil (Appeal) Petition,31.0,315000,56,144,9.0
+847,ranjita,131231947,Contempt Petition (Civil),5.0,55000,30,663,2.0
+848,sai,131231948,Arbitration Petition,21.0,215000,46,178,6.0
+849,manita,131231949,Election Petition,29.0,295000,54,412,9.0
+850,sanpat,131231950,Election Petition,18.0,185000,43,542,8.0
+851,switi,131231951,Arbitration Petition,6.0,65000,31,371,7.0
+852,juli,131231952,Writ Petition,4.0,45000,29,214,9.0
+853,rahat,131231953,Petition for Special Leave to Appeal,7.0,75000,32,375,2.0
+854,adarsh,131231954,Criminal Appeal Petition,22.0,225000,47,717,1.0
+855,jarnail,131231955,Criminal Appeal Petition,1.0,15000,26,343,6.0
+856,lavtar,131231956,Arbitration Petition,28.0,285000,53,334,1.0
+857,guljan,131231957,Criminal Appeal Petition,0.0,5000,25,117,4.0
+858,zafar,131231958,Arbitration Petition,17.0,175000,42,603,7.0
+859,rakhi,131231959,Original Suit,10.0,105000,35,182,8.0
+860,pawan,131231960,Petition for Special Leave to Appeal,23.0,235000,48,267,9.0
+861,daler,131231961,Transferred Case Petition,3.0,35000,28,477,6.0
+862,samima,131231962,Criminal Appeal Petition,18.0,185000,43,157,7.0
+863,lakhwinder,131231963,Contempt Petition (Criminal),25.0,255000,50,588,5.0
+864,baga,131231964,Criminal Appeal Petition,22.0,225000,47,465,3.0
+865,shamima,131231965,Petition for Special Leave to Appeal,27.0,275000,52,357,2.0
+866,faiz,131231966,Civil (Appeal) Petition,1.0,15000,26,787,7.0
+867,ashraf,131231967,Contempt Petition (Civil),1.0,15000,26,392,7.0
+868,talib,131231968,Transferred Case Petition,7.0,75000,32,316,4.0
+869,annat,131231969,Civil (Appeal) Petition,5.0,55000,30,482,7.0
+870,susri,131231970,Election Petition,39.0,395000,64,675,5.0
+871,ishita,131231971,Original Suit,34.0,345000,59,758,6.0
+872,fija,131231972,Contempt Petition (Criminal),1.0,15000,26,228,9.0
+873,ruhi,131231973,Contempt Petition (Criminal),39.0,395000,64,44,4.0
+874,ajima,131231974,Original Suit,17.0,175000,42,393,8.0
+875,musra,131231975,Petition for Special Leave to Appeal,39.0,395000,64,526,9.0
+876,raman,131231976,Civil (Appeal) Petition,20.0,205000,45,771,4.0
+877,manpreet,131231977,Contempt Petition (Civil),32.0,325000,57,330,3.0
+878,feru,131231978,Petition for Special Leave to Appeal,35.0,355000,60,168,9.0
+879,binita,131231979,Petition for Special Leave to Appeal,19.0,195000,44,301,5.0
+880,muhmad,131231980,Petition for Special Leave to Appeal,22.0,225000,47,502,7.0
+881,sanjana,131231981,Original Suit,22.0,225000,47,704,1.0
+882,sumnesh,131231982,Contempt Petition (Civil),16.0,165000,41,179,2.0
+883,vimala,131231983,Criminal Appeal Petition,3.0,35000,28,343,3.0
+884,virender,131231984,Writ Petition,12.0,125000,37,485,4.0
+885,akib,131231985,Criminal Appeal Petition,24.0,245000,49,73,6.0
+886,indervesh,131231986,Writ Petition,10.0,105000,35,210,7.0
+887,deepanshu,131231987,Contempt Petition (Criminal),1.0,15000,26,329,6.0
+888,minaxi,131231988,Original Suit,2.0,25000,27,774,8.0
+889,prableen,131231989,Election Petition,31.0,315000,56,770,1.0
+890,shahrish,131231990,Original Suit,31.0,315000,56,693,2.0
+891,fakir,131231991,Contempt Petition (Criminal),25.0,255000,50,747,4.0
+892,sany,131231992,Arbitration Petition,3.0,35000,28,696,6.0
+893,saurav,131231993,Arbitration Petition,18.0,185000,43,147,7.0
+894,mitthu,131231994,Writ Petition,32.0,325000,57,67,2.0
+895,amna,131231995,Writ Petition,9.0,95000,34,681,2.0
+896,mukeemuddin,131231996,Writ Petition,13.0,135000,38,755,4.0
+897,parveena,131231997,Transferred Case Petition,36.0,365000,61,669,6.0
+898,meetu,131231998,Civil (Appeal) Petition,1.0,15000,26,509,3.0
+899,hukamchand,131231999,Writ Petition,33.0,335000,58,542,7.0
+900,vijender,131232000,Contempt Petition (Civil),24.0,245000,49,276,5.0
+901,"soniya,",131232001,Writ Petition,4.0,45000,29,486,3.0
+902,sishpal,131232002,Arbitration Petition,23.0,235000,48,474,3.0
+903,ruji,131232003,Transferred Case Petition,20.0,205000,45,158,7.0
+904,bhumika,131232004,Writ Petition,20.0,205000,45,548,9.0
+905,pallawi,131232005,Contempt Petition (Civil),35.0,355000,60,494,3.0
+906,rashmi,131232006,Contempt Petition (Civil),1.0,15000,26,170,9.0
+907,satender,131232007,Contempt Petition (Civil),36.0,365000,61,400,9.0
+908,tabsum,131232008,Arbitration Petition,27.0,275000,52,142,2.0
+909,khangara,131232009,Contempt Petition (Civil),17.0,175000,42,693,6.0
+910,amot,131232010,Original Suit,38.0,385000,63,573,4.0
+911,bali,131232011,Criminal Appeal Petition,25.0,255000,50,406,9.0
+912,rohit,131232012,Contempt Petition (Civil),18.0,185000,43,595,6.0
+913,schin,131232013,Original Suit,37.0,375000,62,717,3.0
+914,mustak,131232014,Contempt Petition (Criminal),14.0,145000,39,136,5.0
+915,vishu,131232015,Writ Petition,1.0,15000,26,520,2.0
+916,sen,131232016,Writ Petition,4.0,45000,29,204,7.0
+917,faijina,131232017,Contempt Petition (Criminal),31.0,315000,56,211,9.0
+918,roopam,131232018,Election Petition,30.0,305000,55,40,3.0
+919,fiyaz,131232019,Contempt Petition (Criminal),21.0,215000,46,408,3.0
+920,ruchi,131232020,Original Suit,22.0,225000,47,307,9.0
+921,dya,131232021,Petition for Special Leave to Appeal,1.0,15000,26,717,5.0
+922,nibo,131232022,Civil (Appeal) Petition,27.0,275000,52,767,2.0
+923,jhanjhariya,131232023,Transferred Case Petition,12.0,125000,37,417,2.0
+924,rantesh,131232024,Contempt Petition (Criminal),7.0,75000,32,778,8.0
+925,pinku,131232025,Original Suit,32.0,325000,57,669,7.0
+926,shreee,131232026,Arbitration Petition,13.0,135000,38,405,7.0
+927,umedi,131232027,Arbitration Petition,31.0,315000,56,761,7.0
+928,mandothi,131232028,Arbitration Petition,5.0,55000,30,204,6.0
+929,annielal,131232029,Petition for Special Leave to Appeal,39.0,395000,64,69,2.0
+930,maneesha,131232030,Original Suit,26.0,265000,51,611,7.0
+931,vikas,131232031,Contempt Petition (Criminal),24.0,245000,49,368,4.0
+932,taar,131232032,Transferred Case Petition,33.0,335000,58,399,1.0
+933,anaro,131232033,Writ Petition,23.0,235000,48,748,5.0
+934,sukesh,131232034,Petition for Special Leave to Appeal,23.0,235000,48,282,5.0
+935,biwa,131232035,Election Petition,23.0,235000,48,62,4.0
+936,gorav,131232036,Criminal Appeal Petition,25.0,255000,50,180,1.0
+937,for,131232037,Election Petition,16.0,165000,41,391,4.0
+938,sandeep,131232038,Contempt Petition (Civil),20.0,205000,45,193,8.0
+939,ramkish,131232039,Arbitration Petition,4.0,45000,29,322,5.0
+940,sadab,131232040,Original Suit,19.0,195000,44,342,2.0
+941,devendr,131232041,Criminal Appeal Petition,16.0,165000,41,480,4.0
+942,praveen,131232042,Writ Petition,20.0,205000,45,185,6.0
+943,parmila,131232043,Transferred Case Petition,36.0,365000,61,668,8.0
+944,sabnur,131232044,Writ Petition,32.0,325000,57,665,2.0
+945,kushumavati,131232045,Transferred Case Petition,4.0,45000,29,92,7.0
+946,bunti,131232046,Transferred Case Petition,2.0,25000,27,205,4.0
+947,mosim,131232047,Original Suit,31.0,315000,56,587,1.0
+948,shabbir,131232048,Election Petition,36.0,365000,61,34,5.0
+949,sadiq,131232049,Writ Petition,22.0,225000,47,472,2.0
+950,alish,131232050,Petition for Special Leave to Appeal,26.0,265000,51,569,2.0
+951,vakeel,131232051,Arbitration Petition,39.0,395000,64,513,5.0
+952,mangal,131232052,Criminal Appeal Petition,29.0,295000,54,490,8.0
+953,baksi,131232053,Contempt Petition (Civil),27.0,275000,52,636,1.0
+954,mangi,131232054,Transferred Case Petition,26.0,265000,51,278,4.0
+955,karanveer,131232055,Contempt Petition (Criminal),15.0,155000,40,280,9.0
+956,amar,131232056,Petition for Special Leave to Appeal,2.0,25000,27,630,9.0
+957,taramati,131232057,Original Suit,3.0,35000,28,586,4.0
+958,lakhmi,131232058,Contempt Petition (Criminal),21.0,215000,46,311,5.0
+959,sehjal,131232059,Writ Petition,36.0,365000,61,543,2.0
+960,buity,131232060,Criminal Appeal Petition,10.0,105000,35,561,9.0
+961,nashim,131232061,Original Suit,33.0,335000,58,399,6.0
+962,yudhbir,131232062,Writ Petition,36.0,365000,61,301,7.0
+963,beekar,131232063,Writ Petition,5.0,55000,30,289,1.0
+964,balmiki,131232064,Election Petition,28.0,285000,53,300,1.0
+965,pangita,131232065,Arbitration Petition,0.0,5000,25,439,6.0
+966,ajmer,131232066,Petition for Special Leave to Appeal,6.0,65000,31,203,5.0
+967,safali,131232067,Civil (Appeal) Petition,34.0,345000,59,182,4.0
+968,gulshafa,131232068,Contempt Petition (Criminal),3.0,35000,28,304,7.0
+969,rattan,131232069,Petition for Special Leave to Appeal,18.0,185000,43,116,4.0
+970,khushbu,131232070,Election Petition,14.0,145000,39,40,8.0
+971,rishi,131232071,Contempt Petition (Civil),8.0,85000,33,448,3.0
+972,raziya,131232072,Petition for Special Leave to Appeal,4.0,45000,29,437,9.0
+973,ramdyal,131232073,Petition for Special Leave to Appeal,31.0,315000,56,574,3.0
+974,mast,131232074,Writ Petition,24.0,245000,49,355,5.0
+975,bipnesh,131232075,Transferred Case Petition,37.0,375000,62,337,1.0
+976,traun,131232076,Transferred Case Petition,1.0,15000,26,200,6.0
+977,goruav,131232077,Original Suit,37.0,375000,62,85,6.0
+978,kokil,131232078,Petition for Special Leave to Appeal,27.0,275000,52,738,3.0
+979,phoola,131232079,Petition for Special Leave to Appeal,12.0,125000,37,678,2.0
+980,megharam,131232080,Contempt Petition (Criminal),26.0,265000,51,727,3.0
+981,mogli,131232081,Contempt Petition (Civil),37.0,375000,62,364,5.0
+982,kulwinder,131232082,Civil (Appeal) Petition,15.0,155000,40,613,1.0
+983,tara,131232083,Criminal Appeal Petition,37.0,375000,62,389,1.0
+984,kalpesh,131232084,Writ Petition,1.0,15000,26,73,8.0
+985,shakar,131232085,Election Petition,32.0,325000,57,558,4.0
+986,husain,131232086,Election Petition,21.0,215000,46,510,4.0
+987,ganesh,131232087,Arbitration Petition,10.0,105000,35,774,8.0
+988,bir,131232088,Contempt Petition (Criminal),17.0,175000,42,514,2.0
+989,tirlok,131232089,Writ Petition,26.0,265000,51,292,8.0
+990,iqram,131232090,Original Suit,3.0,35000,28,104,8.0
+991,kaleem,131232091,Arbitration Petition,11.0,115000,36,389,8.0
+992,kooki,131232092,Writ Petition,27.0,275000,52,414,3.0
+993,sanjiv,131232093,Election Petition,15.0,155000,40,523,6.0
+994,vidhya,131232094,Original Suit,22.0,225000,47,231,2.0
+995,sararwati,131232095,Criminal Appeal Petition,28.0,285000,53,506,9.0
+996,dharampal,131232096,Arbitration Petition,23.0,235000,48,53,5.0
+997,sanna,131232097,Petition for Special Leave to Appeal,39.0,395000,64,689,1.0
+998,moin,131232098,Arbitration Petition,23.0,235000,48,273,1.0
+999,khushnasiba,131232099,Criminal Appeal Petition,2.0,25000,27,533,4.0
+1000,yadvir,131232100,Transferred Case Petition,28.0,285000,53,36,5.0
